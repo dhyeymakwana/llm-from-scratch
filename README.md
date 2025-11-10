@@ -1,6 +1,5 @@
 # LLM from Scratch — Hands-On Curriculum (PyTorch)
 
-[![Video Thumbnail](https://img.youtube.com/vi/p3sij8QzONQ/0.jpg)](https://youtu.be/p3sij8QzONQ?si=yEuD584cBZRNiUYm)
 
 ## Introduction
 
