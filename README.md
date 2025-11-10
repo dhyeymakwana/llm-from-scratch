@@ -116,7 +116,7 @@ This part builds the fundamental "LEGO brick" of the entire project: the Transfo
 | tests/test\_causal\_mask.py | Verifies the behavior of the causal mask helper.1 |
 
 This part demonstrates a valuable "Rosetta Stone" validation approach: the test\_attn\_math.py 1 explicitly mirrors and validates the optimized PyTorch single\_head 1 implementation against the simple, human-readable attn\_numpy\_demo.py 1 ground truth.
-
+'''
 * Usage 1:  
   All commands must be run from within the part\_1/ directory.  
   Bash  
@@ -131,7 +131,7 @@ This part demonstrates a valuable "Rosetta Stone" validation approach: the test\
 
   \# Run tests directly  
   pytest \-q
-
+'''
 ### **Part 2: Training a Tiny GPT**
 
 This part assembles the blocks from Part 1 into a complete GPT model and implements the full training and generation pipeline.
