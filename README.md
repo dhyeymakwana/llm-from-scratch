@@ -205,7 +205,7 @@ This part upgrades the "vanilla" GPT from Part 2 with modern, high-performance c
 
 * Usage 1:  
   All commands must be run from within the part\_3/ directory.  
-  Bash  
+  Bash '''  
   \# Navigate to the directory  
   cd part\_3
 
@@ -218,7 +218,7 @@ This part upgrades the "vanilla" GPT from Part 2 with modern, high-performance c
   pytest \-q
 
   \# 2\. Run the generation demo with all features enabled  
-  python demo\_generate.py \--rmsnorm \--rope \--swiglu \--sliding\_window 64 \--sink 4
+  python demo\_generate.py \--rmsnorm \--rope \--swiglu \--sliding\_window 64 \--sink 4 '''
 
 ### **Part 4: Scaling the Training Pipeline**
 
