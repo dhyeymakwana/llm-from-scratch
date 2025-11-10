@@ -1,5 +1,5 @@
 LLM from Scratch — Hands-On Curriculum (PyTorch)
-(https://img.youtube.com/vi/p3sij8QzONQ/0.jpg)](https://youtu.be/p3sij8QzONQ?si=yEuD584cBZRNiUYm)
+
 
 Introduction
 This repository provides a comprehensive, hands-on curriculum for building, training, and aligning Large Language Models (LLMs) from scratch using PyTorch. This project is structured as a progressive educational journey, not a monolithic codebase.
